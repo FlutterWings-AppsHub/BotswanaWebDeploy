@@ -61605,7 +61605,7 @@ a=$.c().l(a)
 a=A.bz(a0,a0,A.A().$3$color$fontSize$fontWeight(b.ay.r,$.c().l(a),B.z),"Version: ")
 b=$.ba()
 b=$.c().l(b)
-return new A.a0o(s.id,r.id,new A.ed(q,B.E),330*(a4.a.a/a3.a),new A.am(new A.N(p,p,p,p),A.bme(A.b([o,B.aA,n,m,l,k,j,new A.CL(h,"People","assets/svg_icons/users.svg",a0),g,new A.CL(f,"Settings","assets/svg_icons/Setting.svg",a0),e,new A.am(new A.N(c,d,c,d),A.EF(a0,a0,B.bx,a0,a0,!0,a0,A.bz(A.b([a,A.bz(a0,a0,A.A().$3$color$fontSize$fontWeight(B.q,$.c().l(b),B.u),"0.1.7")],t.VO),a0,a0,a0),B.W,a0,a0,B.aw,B.aB),a0)],i)),a0),a0)}}
+return new A.a0o(s.id,r.id,new A.ed(q,B.E),330*(a4.a.a/a3.a),new A.am(new A.N(p,p,p,p),A.bme(A.b([o,B.aA,n,m,l,k,j,new A.CL(h,"People","assets/svg_icons/users.svg",a0),g,new A.CL(f,"Settings","assets/svg_icons/Setting.svg",a0),e,new A.am(new A.N(c,d,c,d),A.EF(a0,a0,B.bx,a0,a0,!0,a0,A.bz(A.b([a,A.bz(a0,a0,A.A().$3$color$fontSize$fontWeight(B.q,$.c().l(b),B.u),"0.1.8")],t.VO),a0,a0,a0),B.W,a0,a0,B.aw,B.aB),a0)],i)),a0),a0)}}
 A.aTp.prototype={
 $0(){var s=this.a
 if(A.K(s,null,t.w).w.a.a<850)A.b1(s,!1).bS(0,null)
