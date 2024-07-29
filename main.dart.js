@@ -61758,7 +61758,7 @@ a=$.c().l(a)
 a=A.bz(a0,a0,A.A().$3$color$fontSize$fontWeight(b.ay.r,$.c().l(a),B.z),"Version: ")
 b=$.bb()
 b=$.c().l(b)
-return new A.a0v(s.id,r.id,new A.ee(q,B.E),330*(a4.a.a/a3.a),new A.am(new A.O(p,p,p,p),A.bmS(A.b([o,B.aA,n,m,l,k,j,new A.CR(h,"People","assets/svg_icons/users.svg",a0),g,new A.CR(f,"Settings","assets/svg_icons/Setting.svg",a0),e,new A.am(new A.O(c,d,c,d),A.EJ(a0,a0,B.by,a0,a0,!0,a0,A.bz(A.b([a,A.bz(a0,a0,A.A().$3$color$fontSize$fontWeight(B.q,$.c().l(b),B.u),"0.2.9")],t.VO),a0,a0,a0),B.V,a0,a0,B.av,B.aB),a0)],i)),a0),a0)}}
+return new A.a0v(s.id,r.id,new A.ee(q,B.E),330*(a4.a.a/a3.a),new A.am(new A.O(p,p,p,p),A.bmS(A.b([o,B.aA,n,m,l,k,j,new A.CR(h,"People","assets/svg_icons/users.svg",a0),g,new A.CR(f,"Settings","assets/svg_icons/Setting.svg",a0),e,new A.am(new A.O(c,d,c,d),A.EJ(a0,a0,B.by,a0,a0,!0,a0,A.bz(A.b([a,A.bz(a0,a0,A.A().$3$color$fontSize$fontWeight(B.q,$.c().l(b),B.u),"0.3.1")],t.VO),a0,a0,a0),B.V,a0,a0,B.av,B.aB),a0)],i)),a0),a0)}}
 A.aTP.prototype={
 $0(){var s=0,r=A.v(t.H),q,p,o
 var $async$$0=A.p(function(a,b){if(a===1)return A.r(b,r)
