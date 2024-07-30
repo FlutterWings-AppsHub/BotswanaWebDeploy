@@ -61760,7 +61760,7 @@ a=$.c().l(a)
 a=A.bz(a0,a0,A.A().$3$color$fontSize$fontWeight(b.ay.r,$.c().l(a),B.z),"Version: ")
 b=$.bb()
 b=$.c().l(b)
-return new A.a0v(s.id,r.id,new A.ee(q,B.E),330*(a4.a.a/a3.a),new A.am(new A.O(p,p,p,p),A.bmS(A.b([o,B.aB,n,m,l,k,j,new A.CR(h,"People","assets/svg_icons/users.svg",a0),g,new A.CR(f,"Settings","assets/svg_icons/Setting.svg",a0),e,new A.am(new A.O(c,d,c,d),A.EJ(a0,a0,B.by,a0,a0,!0,a0,A.bz(A.b([a,A.bz(a0,a0,A.A().$3$color$fontSize$fontWeight(B.q,$.c().l(b),B.u),"0.3.2")],t.VO),a0,a0,a0),B.V,a0,a0,B.av,B.aC),a0)],i)),a0),a0)}}
+return new A.a0v(s.id,r.id,new A.ee(q,B.E),330*(a4.a.a/a3.a),new A.am(new A.O(p,p,p,p),A.bmS(A.b([o,B.aB,n,m,l,k,j,new A.CR(h,"People","assets/svg_icons/users.svg",a0),g,new A.CR(f,"Settings","assets/svg_icons/Setting.svg",a0),e,new A.am(new A.O(c,d,c,d),A.EJ(a0,a0,B.by,a0,a0,!0,a0,A.bz(A.b([a,A.bz(a0,a0,A.A().$3$color$fontSize$fontWeight(B.q,$.c().l(b),B.u),"0.3.3")],t.VO),a0,a0,a0),B.V,a0,a0,B.av,B.aC),a0)],i)),a0),a0)}}
 A.aTP.prototype={
 $0(){var s=0,r=A.v(t.H),q,p,o
 var $async$$0=A.p(function(a,b){if(a===1)return A.r(b,r)
@@ -63975,7 +63975,7 @@ r=A.j(a)
 s=$.dy()
 s=$.c().l(s)
 p=t.p
-return A.a5(A.b([A.ag(A.b([A.ag(A.b([m,B.n,A.a5(A.b([q,B.bl,A.B(n.a,o,o,o,o,A.A().$3$color$fontSize$fontWeight(r.ay.b,$.c().l(s),B.v),o,o)],p),B.t,o,B.i,B.e)],p),B.k,o,B.i,B.e),A.ag(A.b([A.d3(B.ii,o,o,22,"View details",70,8,!1,o,new A.aMk(this,a,b),B.q),B.L,A.aR(!1,o,!0,A.b3("assets/svg_icons/delete.svg",o,new A.i6(A.j(a).ay.at,B.b_,o,B.bu),24,24),o,!0,B.f,o,B.f,B.f,o,o,o,o,o,o,new A.aMl(this,a),o,B.f,o,o)],p),B.k,o,B.i,B.e)],p),B.k,o,B.O,B.e),new A.am(B.ey,A.e9(B.aO,o,o),o)],p),B.k,o,B.i,B.e)}}
+return A.a5(A.b([A.ag(A.b([A.ag(A.b([m,B.n,A.a5(A.b([q,B.bl,A.B(n.d,o,o,o,o,A.A().$3$color$fontSize$fontWeight(r.ay.b,$.c().l(s),B.v),o,o)],p),B.t,o,B.i,B.e)],p),B.k,o,B.i,B.e),A.ag(A.b([A.d3(B.ii,o,o,22,"View details",70,8,!1,o,new A.aMk(this,a,b),B.q),B.L,A.aR(!1,o,!0,A.b3("assets/svg_icons/delete.svg",o,new A.i6(A.j(a).ay.at,B.b_,o,B.bu),24,24),o,!0,B.f,o,B.f,B.f,o,o,o,o,o,o,new A.aMl(this,a),o,B.f,o,o)],p),B.k,o,B.i,B.e)],p),B.k,o,B.O,B.e),new A.am(B.ey,A.e9(B.aO,o,o),o)],p),B.k,o,B.i,B.e)}}
 A.aMk.prototype={
 $0(){var s=this.b,r=this.c,q=t.q,p=this.a.r
 if(A.K(s,null,t.w).w.a.a<850){r=r.an(0,$.dC(),q)
